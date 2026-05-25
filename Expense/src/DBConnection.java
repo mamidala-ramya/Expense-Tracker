@@ -6,8 +6,7 @@ public class DBConnection {
 
         try {
 
-            String url =
-                "jdbc:mysql://localhost:3306/expense_db";
+            String url = "jdbc:mysql://localhost:3306/expense_db";
 
             String user = "root";
             String password = "bhuvana1@m&09!#";
